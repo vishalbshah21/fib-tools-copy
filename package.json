@@ -1,0 +1,27 @@
+{
+  "name": "@Your-GitHub-Handle/Your-Repo-Name",
+  "version": "0.1.1",
+  "description": "Functions for working with the Fibonacci sequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --ci --color --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Your-GitHub-Handle/Your-Repo-Name.git"
+  },
+  "author": "Jonathan Clem <jclem@github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Your-GitHub-Handle/Your-Repo-Name/issues"
+  },
+  "homepage": "https://github.com/Your-GitHub-Handle/Your-Repo-Name#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.5.3",
+    "socket.io-client": "^1.4.6",
+    "supertest": "^1.2.0"
+  }
+}
