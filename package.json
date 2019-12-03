@@ -1,5 +1,5 @@
 {
-  "name": "vishalbshah21/fib-tools-copy",
+  "name": "@vishalbshah21/fib-tools-copy",
   "version": "0.1.1",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Your-GitHub-Handle/Your-Repo-Name.git"
+    "url": "git://github.com/vishalbshah21/fib-tools-copy.git"
   },
   "author": "Jonathan Clem <jclem@github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Your-GitHub-Handle/Your-Repo-Name/issues"
+    "url": "https://github.com/vishalbshah21/fib-tools-copy/issues"
   },
-  "homepage": "https://github.com/Your-GitHub-Handle/Your-Repo-Name#readme",
+  "homepage": "https://github.com/vishalbshah21/fib-tools-copy#readme",
   "devDependencies": {
     "jest": "^24.8.0",
     "chai": "^3.5.0",
