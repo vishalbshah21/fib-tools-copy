@@ -1,5 +1,5 @@
 {
-  "name": "@Your-GitHub-Handle/Your-Repo-Name",
+  "name": "vishalbshah21/fib-tools-copy",
   "version": "0.1.1",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
